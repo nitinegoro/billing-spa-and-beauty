@@ -1,0 +1,33 @@
+[
+	{
+		"module":"transaction",
+		"menu":"1",
+		"update":"1",
+		"delete":"1"
+	},
+	{
+		"module":"room",
+		"menu":"1",
+		"create":"1",
+		"update":"1",
+		"delete":"1"
+	},
+	{
+		"module":"service",
+		"menu":"1",
+		"create":"1",
+		"update":"1",
+		"delete":"1"
+	},
+	{
+		"module":"customer",
+		"menu":"1",
+		"create":"1",
+		"update":"1",
+		"delete":"1"
+	},
+	{
+		"module":"report",
+		"menu":"1"
+	}
+]

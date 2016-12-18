@@ -1,0 +1,15 @@
+{
+    "wordLength": "Password terlalu pendek",
+    "wordNotEmail": "Jangan menggunakan email sebagai password Anda",
+    "wordSimilarToUsername": "Tidak boleh sama dengan nama anda",
+    "wordTwoCharacterClasses": "Gunakan Karakter yang berbeda",
+    "wordRepetitions": "Terlalu banyak pengulangan",
+    "wordSequences": "Password anda berurutan",
+    "errorList": "Error:",
+    "veryWeak": "Terlalu Lemah",
+    "weak": "Lemah",
+    "normal": "Standar",
+    "medium": "Sedang",
+    "strong": "Kuat",
+    "veryStrong": "Sangat Kuat"
+}
