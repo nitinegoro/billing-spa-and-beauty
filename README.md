@@ -7,6 +7,7 @@ Adalah aplikasi kasir sederhana untuk usaha Spa dan Panti Pijat dibuat dengan me
 - Kemudian buka (http://127.0.0.1/billing-spa-and-beauty)
 ### Fitur-fitur
 - Dashboard Data
-  -- Range income transaksi
+Range income transaksi
+
 - Transaksi 
-  -- Bisa memilih pelanggan baru atau pelanggan tetap 
+Bisa memilih pelanggan baru atau pelanggan tetap 
