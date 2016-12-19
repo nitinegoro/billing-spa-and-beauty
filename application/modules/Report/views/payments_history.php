@@ -32,7 +32,7 @@
 echo form_open(site_url('report'), array('method' => 'get'));
 ?>
 		<div class="col-md-3">
-			<a href="<?php echo site_url("report/print_out?q={$filter['q']}&per_page={$filter['per_page']}&from={$filter['from']}&end={$filter['end']}&user={$filter['user']}") ?>" target="_blank" class="btn btn-white btn-default btn-sm btn-bold btn-round">
+			<a href="<?php echo site_url("report/print_out?q={$filter['q']}&per_page={$filter['per_page']}&from={$filter['from']}&end={$filter['end']}&user={$filter['user']}") ?>" target="_blank" class="btn btn-white btn-default btn-sm btn-bold btn-round btnPrint">
 				<i class="ace-icon fa fa-print gray"></i> Print
 			</a>
 			<a href="<?php echo site_url("report/export?q={$filter['q']}&per_page={$filter['per_page']}&from={$filter['from']}&end={$filter['end']}&user={$filter['user']}") ?>" target="_blank" class="btn btn-white btn-default btn-sm btn-bold btn-round">
@@ -143,7 +143,7 @@ foreach($payments as $row) :
 					<td><?php echo number_format($total['grandtotal']) ?></td>
 					<td><?php echo $row->full_name; ?></td>
 					<td class="text-center">
-						<a class="gray" href="<?php echo site_url("report/printnota/{$row->payment_id}") ?>" target="_blank" data-rel="popover" data-trigger="hover" data-placement="top" data-content="Print Struct">
+						<a class="gray btnPrint" href="<?php echo site_url("report/printnota/{$row->payment_id}") ?>" target="_blank" data-rel="popover" data-trigger="hover" data-placement="top" data-content="Print Struct">
 							<i class="ace-icon fa fa-print bigger-130"></i>
 						</a>
 						<a class="green" href="<?php echo site_url("report/getpayment/{$row->payment_id}") ?>" data-rel="popover" data-trigger="hover" data-placement="top" data-content="Update">
