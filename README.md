@@ -5,6 +5,7 @@ Adalah aplikasi kasir sederhana untuk usaha Spa dan Panti Pijat dibuat dengan me
 - Update file application/config/database.php 
 - Sesuaikan dengan database yang telah dibuat.
 - Kemudian buka (http://127.0.0.1/billing-spa-and-beauty)
+
 ### Fitur-fitur
 - Dashboard Data
 Range income transaksi
