@@ -8,6 +8,9 @@
 
 jQuery(function($) {
 
+	// add print button
+	$(".btnPrint").printPage();
+	
 	// date Range
 	$('.input-daterange').datepicker({
 		autoclose:true,
