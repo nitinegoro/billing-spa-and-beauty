@@ -106,7 +106,7 @@
 		<div class="col-md-2">
 			<div class="btn-group col-md-12">
 				<a href="<?php echo site_url("report/printnota/{$get->payment_id}") ?>" target="_blank" class="btn btn-app btn-light btn-sm pull-right">
-					<i class="ace-icon fa fa-print bigger-160"></i> Print
+					<i class="ace-icon fa fa-print bigger-160 btnPrint"></i> Print
 				</a>
 			</div>
 		</div>
