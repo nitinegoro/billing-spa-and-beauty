@@ -7,7 +7,7 @@ Adalah aplikasi kasir sederhana untuk usaha Spa dan Panti Pijat dibuat dengan me
 - Kemudian buka (http://127.0.0.1/billing-spa-and-beauty)
 
 ### Screenshot
-![image](https://raw.githubusercontent.com/6bebf810bfc366e7596fd5fc43c8cf/pos-jari-mas/master/Screenshot.PNG)
+![image](https://raw.githubusercontent.com/nitinegoro/billing-spa-and-beauty/master/Screenshot.PNG)
 
 ### Fitur-fitur
 - Responsive Desain 
