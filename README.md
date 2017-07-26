@@ -9,6 +9,9 @@ Adalah aplikasi kasir sederhana untuk usaha Spa dan Panti Pijat dibuat dengan me
 ### Screenshot
 ![image](https://raw.githubusercontent.com/nitinegoro/billing-spa-and-beauty/master/Screenshot.PNG)
 
+### Demo Aplikasi
+[DISINI](https://www.youtube.com/watch?v=A8HPrZPOeyI&t=9s)
+
 ### Fitur-fitur
 - Responsive Desain 
 - Dashboard Data Range income transaksi.
